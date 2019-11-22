@@ -6,3 +6,4 @@ ls -a >> example1.txt
 
 hello
 
+ls -a 
